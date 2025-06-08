@@ -611,7 +611,10 @@ footer {
   justify-content: center;
   margin-top: 30px;
 }
-
+.h-prog {
+  text-shadow: 0 0 8px #ffec8b, 0 0 8px #ffd700;
+  color: #fff;
+}
 .scroll-to-top {
   border-radius: 50%;
   width: 35px;
