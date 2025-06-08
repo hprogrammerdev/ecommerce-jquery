@@ -614,6 +614,7 @@ footer {
 .h-prog {
   text-shadow: 0 0 8px #ffec8b, 0 0 8px #ffd700;
   color: #fff;
+  margin: 0 10px;
 }
 .scroll-to-top {
   border-radius: 50%;

@@ -871,7 +871,7 @@ $(document).ready(function () {
   });
 
   let date = new Date();
-  $("footer").prepend(date.getFullYear());
+  $("footer span.date").prepend(date.getFullYear());
 
   // Scroll To Top Button
   let scrollToTop = $(".scroll-to-top");
